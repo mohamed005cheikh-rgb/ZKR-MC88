@@ -21,15 +21,15 @@
 ---
 
 ## 📸 لمحة من الداخل
-
+ <!-- 
 <div align="center">
   <img src="https://github.com/mohamed005cheikh-rgb/zkr-mc88/raw/main/images/Sc1.png" alt="صفحة الأذكار" width="100%" />
 </div>
 
 <br />
-
+-->
 <div align="center">
-  <img src="https://github.com/mohamed005cheikh-rgb/zkr-mc88/raw/main/images/Sc2.png" alt="الثيمات وأدوات القراءة" width="100%" />
+  <img src="https://github.com/mohamed005cheikh-rgb/zkr-mc88/raw/main/images/Sc12.jpg" alt="الثيمات وأدوات القراءة" width="100%" />
 </div>
 
 <br />
@@ -37,15 +37,14 @@
 <div align="center">
   <img src="https://github.com/mohamed005cheikh-rgb/zkr-mc88/raw/main/images/Sr1.gif" alt="البحث اللحظي في الأذكار" width="100%" />
 </div>
-
 <br />
-
+<!-- 
 <div align="center">
   <img src="https://github.com/mohamed005cheikh-rgb/zkr-mc88/raw/main/images/Sr2.gif" alt="عدّاد التسبيح التفاعلي" width="100%" />
 </div>
 
 ---
-
+-->
 ## ✨ ما ستجده
 
 **أربعة ألوان مريحة للعين.**  
