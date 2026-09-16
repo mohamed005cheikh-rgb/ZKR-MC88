@@ -42,9 +42,8 @@
 <div align="center">
   <img src="https://github.com/mohamed005cheikh-rgb/zkr-mc88/raw/main/images/Sr2.gif" alt="عدّاد التسبيح التفاعلي" width="100%" />
 </div>
-
----
 -->
+---
 ## ✨ ما ستجده
 
 **أربعة ألوان مريحة للعين.**  
